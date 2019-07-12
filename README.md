@@ -1,2 +1,2 @@
 # Aptech_Management_System
-Webathon Comptition
+Desktop Application On C# in Webathon Comptition
